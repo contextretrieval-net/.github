@@ -10,5 +10,3 @@ What happens after the fetch: chunking, retrieval and citations for web RAG.
 ```bash
 npx @contextretrieval-net/cli fetch https://example.com -o text
 ```
-
-Built on the [Live Web Data API](https://livewebdata.com).
