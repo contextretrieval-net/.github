@@ -11,4 +11,4 @@ What happens after the fetch: chunking, retrieval and citations for web RAG.
 npx @contextretrieval-net/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://contextretrieval.net/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
